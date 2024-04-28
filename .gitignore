@@ -1,5 +1,5 @@
 # Node modules - applies to node_modules in frontend and any other subdirectories
-/node_modules/
+/frontend/node_modules/
 
 # Vue build output
 /frontend/dist/
