@@ -9,6 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@iconify-prerendered/vue-bi": "^0.23.1704439122",
+    "@iconify-prerendered/vue-cil": "^0.23.1702311722",
+    "@iconify-prerendered/vue-fa-brands": "^0.23.1702311934",
+    "@iconify-prerendered/vue-mdi": "^0.23.1712503462",
+    "element-plus": "^2.7.2",
     "vue": "^3.4.21",
     "vue-router": "^4.3.2",
     "vuex": "^4.0.2"
